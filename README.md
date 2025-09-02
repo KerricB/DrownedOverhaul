@@ -4,7 +4,7 @@
 [![Build](https://github.com/KerricB/DrownedOverhaul/actions/workflows/build.yml/badge.svg)](../../actions)
 ![Java 21](https://img.shields.io/badge/Java-21-007396)
 ![Paper API](https://img.shields.io/badge/API-Paper%201.21.x-2ea44f)
-[Modrinth](https://modrinth.com/user/ItsEminus)
+![Modrinth](https://modrinth.com/user/ItsEminus)
 [![License: ARR](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 ---
