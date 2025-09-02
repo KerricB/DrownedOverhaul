@@ -1,0 +1,13 @@
+# DrownedOverhaul Configuration
+# =============================
+# Control how aggressive and immersive drowned grabbing behavior is.
+# All values can be adjusted without recompiling.
+
+# Maximum number of drowned that can latch onto a single player at once
+max-grabbing-drowned: 4
+
+# How much downward pull force each drowned applies (0.15 = subtle pull, higher = stronger drag)
+pull-strength-per-drowned: 0.15
+
+# Maximum range (in blocks) at which a drowned can grab a player
+grab-range: 6.0

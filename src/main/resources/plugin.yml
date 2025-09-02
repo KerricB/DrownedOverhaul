@@ -1,0 +1,6 @@
+name: DrownedOverhaul
+main: com.kerric.drownedoverhaul.DrownedOverhaul
+version: 1.0.1
+api-version: '1.21'
+author: Kerric
+description: Overhaul drowned behavior so they can grab players and drag them underwater.
