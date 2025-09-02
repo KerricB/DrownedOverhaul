@@ -31,3 +31,42 @@ pull-strength-per-drowned: 0.15
 
 # Maximum distance at which drowned can latch onto players
 grab-range: 6.0
+
+🚀 Installation
+
+Download the latest release from Modrinth
+.
+
+Place the .jar file into your server’s plugins/ folder.
+
+Restart the server to generate the default config.yml.
+
+(Optional) Adjust values in config.yml to fit your server’s playstyle.
+
+🛠️ Technical Notes
+
+Built with Maven against PaperMC API 1.21.8.
+
+Uses scheduled tasks for smooth dragging behavior.
+
+Auto-loads on server startup, no extra setup required.
+
+📌 Compatibility
+
+Minecraft Versions: 1.21.4 → 1.21.8
+
+Platforms: Paper, Spigot, Purpur, Folia
+
+🧑 Author
+
+Created by ItsEminus 🎶 (aka Eminus).
+Check out more of my work:
+
+Modrinth Profile
+
+Spotify – Eminus
+
+📜 License
+
+This project is licensed under All Rights Reserved.
+You may not redistribute or modify without permission.
