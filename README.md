@@ -1,23 +1,33 @@
-# 🧟 DrownedOverhaul
+# DrownedOverhaul  
+*A Deep Sea Threat Awaits* 🌊
 
-A Paper 1.21.8 plugin that overhauls drowned behavior, letting them grab players in water and drag them underwater for a more immersive (and terrifying) ocean survival experience.
+[![Modrinth](https://img.shields.io/modrinth/dt/your-modrinth-slug?logo=modrinth)](https://modrinth.com/plugin/drownedoverhaul)  
+[![License: ARR](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)  
 
 ---
 
-## ✨ Features
-- Drowned can **latch onto players** when nearby in water.  
-- Multiple drowned can attach at once (configurable).  
-- Latched drowned **pull players underwater** with a configurable force.  
-- Customizable range, pull strength, and max latching drowned.  
-- Visual feedback: splash particles and title messages when grabbed.  
-- Safe release when a drowned dies or the player leaves water.  
+## 📖 Overview
+**DrownedOverhaul** transforms Minecraft’s oceans into a place of genuine peril.  
+This plugin reimagines the behavior of Drowned mobs, letting them grab players underwater and drag them toward the depths.
+
+Features include:
+- **Drowned Grab Mechanic**: Drowned mobs can now latch onto players underwater.
+- **Multi-Grab Support**: Up to **4** drowned can pull a single player, increasing drag force.
+- **Configurable Settings**: Server owners can tweak grab range, pull strength, and more.
+- **Failsafe Handling**: Prevents infinite grab loops or buggy escape behavior.
+- **Lightweight & Server-Friendly**: Designed for **PaperMC** (works on Spigot/Purpur too).
 
 ---
 
 ## ⚙️ Configuration
-Default `config.yml`:
-
+The plugin generates a `config.yml` on first run.  
+Default values:
 ```yaml
+# Maximum number of drowned that can grab a player
 max-grabbing-drowned: 4
+
+# Strength of the pull applied per drowned (Y-axis force)
 pull-strength-per-drowned: 0.15
+
+# Maximum distance at which drowned can latch onto players
 grab-range: 6.0
