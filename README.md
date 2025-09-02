@@ -1,7 +1,7 @@
 # DrownedOverhaul  
 *A Deep Sea Threat Awaits* 🌊
 
-[![Modrinth]([https://img.shields.io/modrinth/dt/your-modrinth-slug?logo=modrinth)](https://modrinth.com/plugin/drownedoverhaul](https://modrinth.com/plugin/drownedoverhaul-a-deep-sea-threat-awaits))  
+[![Modrinth] https://modrinth.com/plugin/drownedoverhaul-a-deep-sea-threat-awaits  
 [![License: ARR](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)  
 
 ---
