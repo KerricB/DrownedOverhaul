@@ -4,7 +4,7 @@
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/KerricB/DrownedOverhaul)
 ![Java 21](https://img.shields.io/badge/Java-21-007396)
 ![Paper API](https://img.shields.io/badge/API-Paper%201.21.x-2ea44f)
-[![Modrinth](https://img.shields.io/badge/Modrinth-Page-brightgreen?logo=modrinth)](https://modrinth.com/plugin/drownedoverhaul)
+[![Modrinth](https://img.shields.io/badge/Modrinth-Page-brightgreen?logo=modrinth)](https://modrinth.com/plugin/drownedoverhaul-a-deep-sea-threat-awaits)
 [![License: ARR](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 ---
