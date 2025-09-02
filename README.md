@@ -36,8 +36,7 @@ grab-range: 6.0
 
 🚀 Installation
 
-Download the latest release from Modrinth
-.
+Download the latest release from Modrinth.
 
 Place the .jar file into your server’s plugins/ folder.
 
