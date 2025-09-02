@@ -32,6 +32,8 @@ pull-strength-per-drowned: 0.15
 # Maximum distance at which drowned can latch onto players
 grab-range: 6.0
 
+
+
 🚀 Installation
 
 Download the latest release from Modrinth
@@ -60,11 +62,6 @@ Platforms: Paper, Spigot, Purpur, Folia
 🧑 Author
 
 Created by ItsEminus 🎶 (aka Eminus).
-Check out more of my work:
-
-Modrinth Profile
-
-Spotify – Eminus
 
 📜 License
 
